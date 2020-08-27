@@ -4,7 +4,7 @@
 ![School](https://img.shields.io/badge/School-USTC-blue.svg)
 ![Language](https://img.shields.io/badge/language-Python3-yellow.svg)
 ![GitHub stars](https://img.shields.io/github/stars/Violin9906/USTC-ncov-AutoReport)
-![GitHub forks](https://img.shields.io/github/forks/Violin9906/USTC-ncov-AutoReport)
+![GitHub forks](https://img.shields.io/github/forks/Violin9906/USTC-ncov-AutoReport)  
 
 ## 说明
 
